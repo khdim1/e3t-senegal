@@ -1,0 +1,6 @@
+services:
+  - type: web
+    runtime: static
+    name: e3t-senegal
+    staticPublishPath: .
+    pullRequestPreviewsEnabled: false
